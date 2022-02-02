@@ -9,4 +9,4 @@ Embeddings are sourced from the following:
 - [FastText](https://fasttext.cc/docs/en/english-vectors.html)
 
 # Results
-![alt text](https://github.com/Patrickdg/Multiclass_Classification-News_Articles/results_summary.png?raw=true)  
+![Results Table](/results_summary.png?raw=true)  
