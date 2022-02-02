@@ -8,6 +8,5 @@ Embeddings are sourced from the following:
 - [GloVe](https://nlp.stanford.edu/projects/glove/)
 - [FastText](https://fasttext.cc/docs/en/english-vectors.html)
 
-# Methodology
-
 # Results
+![alt text](https://github.com/Patrickdg/Multiclass_Classification-News_Articles.git/results_summary.png?raw=true)  
